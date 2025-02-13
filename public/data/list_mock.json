@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "JCfrJAB1vXPGOh28Utz6zKO7DMo",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "susKErFbvl3DtBwyYpmwFZBhHVs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cXmYNmQ4BuM"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-25T05:00:34Z",
+        "channelId": "UCN9_L9lA9kqJbGANLRus_1A",
+        "title": "JENNIE - ZEN (RUBY ALBUM MARCH 7)",
+        "description": "JENNIE - ZEN 'Ruby' Album Pre-Order Now: https://jennie.lnk.to/ruby Out March 7th Directed by Cho Gi-Seok Follow JENNIE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cXmYNmQ4BuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cXmYNmQ4BuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cXmYNmQ4BuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JennieRubyJaneVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-25T05:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_YTDotG_g2I7BZxiFi0Cyzs3hEk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bB3-CUMERIU"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-11T00:00:06Z",
+        "channelId": "UCN9_L9lA9kqJbGANLRus_1A",
+        "title": "JENNIE - Mantra (Official Video)",
+        "description": "Official music video for “Mantra” by JENNIE out now: https://jennie.lnk.to/mantra Directed by Tanu Muino Follow JENNIE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bB3-CUMERIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bB3-CUMERIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bB3-CUMERIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JennieRubyJaneVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-11T00:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FTBy30FHCgAcjRTeD-A-0pNu1fU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "23urWKmHS6o"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-31T05:00:06Z",
+        "channelId": "UCN9_L9lA9kqJbGANLRus_1A",
+        "title": "JENNIE &amp; Dominic Fike - Love Hangover (Official Video)",
+        "description": "Official music video for “Love Hangover” by JENNIE & Dominic Fike out now: https://jennie.lnk.to/lovehangover 'Ruby' Album ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/23urWKmHS6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/23urWKmHS6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/23urWKmHS6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JennieRubyJaneVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-31T05:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FIvm23ktpmBx3224ee4WgDXJNb4",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCNYi_zGmR519r5gYdOKLTjQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-13T06:19:55Z",
+        "channelId": "UCNYi_zGmR519r5gYdOKLTjQ",
+        "title": "JENNIE",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/EuTcahp-WX7XXOOvzx2uiZaOBBwlnYhxaVtRExzOUt9LbNCcEt3MLF2gkpX3R6ssUsxsABtd=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/EuTcahp-WX7XXOOvzx2uiZaOBBwlnYhxaVtRExzOUt9LbNCcEt3MLF2gkpX3R6ssUsxsABtd=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/EuTcahp-WX7XXOOvzx2uiZaOBBwlnYhxaVtRExzOUt9LbNCcEt3MLF2gkpX3R6ssUsxsABtd=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "JENNIE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-13T06:19:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gd7V3_Zhzb2DRV5pfEyWxkXhqBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3sB8nZ6x1qA"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-22T01:03:41Z",
+        "channelId": "UCNYi_zGmR519r5gYdOKLTjQ",
+        "title": "JENNIE - Ruby (Official Album Trailer)",
+        "description": "Ruby - The 1st Studio Album Out March 7th Pre-Order Now: https://jennie.lnk.to/ruby #JENNIE #Ruby #제니.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3sB8nZ6x1qA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3sB8nZ6x1qA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3sB8nZ6x1qA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JENNIE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-22T01:03:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ls4BKvZUJZfWX6QhzAk_6AYFTeM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ROn0wirYfCY"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-01T12:06:17Z",
+        "channelId": "UCRXiA3h1no_PFkb1JCP0yMA",
+        "title": "JENNIE Answers 9 Questions While Getting Ready | Vogue",
+        "description": "Amid the hustle and bustle of Haute Couture Fashion Week, Vogue France met with JENNIE, just a few hours before the Chanel ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ROn0wirYfCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ROn0wirYfCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ROn0wirYfCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vogue",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-01T12:06:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rzjqJ4gM6tQiIuPOSDHnEQRXMQA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FiIBLyKYJhI"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-31T09:00:16Z",
+        "channelId": "UC2tfQfxl_wmAosF4ES_zULw",
+        "title": "[sub] 제니가 지켜온 비밀들.. 혤스클럽에서 다 풀고 갑니다 I 혤&#39;s club🍸 ep38 제니",
+        "description": "우리 제니 만두 지키면서 활동하자.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FiIBLyKYJhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FiIBLyKYJhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FiIBLyKYJhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "혜리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-31T09:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z0oIdBCennYwMWP5t6uem0hJIAw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zb6RKD9-_Vc"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-02T03:00:54Z",
+        "channelId": "UCNYi_zGmR519r5gYdOKLTjQ",
+        "title": "JENNIE – Love Hangover (Lyrics Breakdown in Korean)",
+        "description": "JENNIE – Love Hangover (Lyrics Breakdown in Korean) “Love Hangover” by JENNIE & Dominic Fike out now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zb6RKD9-_Vc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zb6RKD9-_Vc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zb6RKD9-_Vc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JENNIE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-02T03:00:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YnI9u0QR3vg3S3_fmneosIkZCZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EChIDpfvoEs"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-25T00:00:17Z",
+        "channelId": "UCNYi_zGmR519r5gYdOKLTjQ",
+        "title": "JENNIE - The Ruby Experience",
+        "description": "The Ruby Experience by JENNIE For more information visit: https://jenn.ie Ruby - The 1st Studio Album Out March 7th Pre-Order ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EChIDpfvoEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EChIDpfvoEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EChIDpfvoEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JENNIE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-25T00:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tmHCqtU99cCQrHMlzf28VeXLe-E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V5bVtAej1hs"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-25T12:00:42Z",
+        "channelId": "UCNYi_zGmR519r5gYdOKLTjQ",
+        "title": "JENNIE - Mantra (Official Performance Video)",
+        "description": "Official Performance Video for “Mantra” by JENNIE out now: https://jennie.lnk.to/mantra Directed by Tanu Muino Follow JENNIE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V5bVtAej1hs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V5bVtAej1hs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V5bVtAej1hs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JENNIE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-25T12:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WU9LqNFmwqr0PFaBwUR4wKAz-QE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a8Yp2QetwqE"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-31T06:43:27Z",
+        "channelId": "UCmth4hMyizG-_W9jidBqs_A",
+        "title": "JENNIE (제니) &#39;Love Hangover&#39; (Color Coded Lyrics)",
+        "description": "All Rights Administered by ODD ATELIER • Artist: JENNIE (제니) • Song ♫: 'Love Hangover' • Album: Ruby - The 1st Studio Album ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a8Yp2QetwqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a8Yp2QetwqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a8Yp2QetwqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jaeguchi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-31T06:43:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AB2UclJQGHJu2wnZTN2wfr-Xcew",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dzt9sIbOpOY"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-31T06:07:40Z",
+        "channelId": "UCQ99CmIeeIL6CNR6vHAf9Wg",
+        "title": "JENNIE &amp; Dominic Fike - Love Hangover (Official Video) | Reaction",
+        "description": "Extra content on our Patreon: ▻ https://www.patreon.com/fosquadkpop -- FO Squad is on Instagram & Twitter!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dzt9sIbOpOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dzt9sIbOpOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dzt9sIbOpOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FO Squad Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-31T06:07:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "15eZjwDEHprIM8TwCnh_DlP-VzA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mx92lTYxrJQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-06T14:00:13Z",
+        "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+        "title": "The Weeknd, JENNIE, Lily-Rose Depp - One Of The Girls (Official Video)",
+        "description": "Official audio for \"One Of The Girls\", available everywhere now: http://theweeknd.co/TheIdolEpisode4 ▻Follow The Weeknd: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mx92lTYxrJQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mx92lTYxrJQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mx92lTYxrJQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheWeekndVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-06T14:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DgZqxNfdKWMSqmrVDymKjYe-dZA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eQNHDV7lKgE"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-06T04:00:20Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "JENNIE - ‘You &amp; Me’ DANCE PERFORMANCE VIDEO",
+        "description": "JENNIE - You & Me You know I gotcha You know that I got you like that Ain't nobody gonna have your back like the way I do You ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eQNHDV7lKgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eQNHDV7lKgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eQNHDV7lKgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-06T04:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j781HqXky4yNtvnNFQ7eje-mMFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AgN2wlKJBhU"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-31T05:43:02Z",
+        "channelId": "UC-AlofdKECUdhXrbJQZ6iEg",
+        "title": "JENNIE &amp; Dominic Fike - Love Hangover",
+        "description": "JENNIE & Dominic Fike - Love Hangover » Descargar: » Apoyo JENNIE: https://www.instagram.com/jennierubyjane/?hl=en ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AgN2wlKJBhU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AgN2wlKJBhU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AgN2wlKJBhU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LatinHype",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-31T05:43:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "we-LBt3KDoE9cHGdSC9iMyyn8cA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xTGBvQkasZ8"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-25T14:42:39Z",
+        "channelId": "UChO8h2G8UjOVc081rgYU8XQ",
+        "title": "JENNIE - ZEN (Lyrics)",
+        "description": "Jennie - Zen Nobody gon' move my soul gon' move my aura my matter Follow Jennie: https://www.instagram.com/jennierubyjane/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xTGBvQkasZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xTGBvQkasZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xTGBvQkasZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vibe Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-25T14:42:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7LG85bOB4qpCZE3Wbw_oUQrsga8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b73BI9eUkjM"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-12T09:00:04Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "JENNIE - &#39;SOLO&#39; M/V",
+        "description": "JENNIE - SOLO 천진난만 청순가련 새침한 척 이젠 지쳐 나 귀찮아 매일 뭐 해 어디야 밥은 잘 자 Baby 자기 여보 보고 싶어 다 부질 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b73BI9eUkjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b73BI9eUkjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b73BI9eUkjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-12T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AZrz_O4UX0wrN_k-LlWtM29ZlXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3DP5rIXKYQ4"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-16T07:00:02Z",
+        "channelId": "UCN9_L9lA9kqJbGANLRus_1A",
+        "title": "JENNIE - Mantra (Jimmy Kimmel Live!)",
+        "description": "Jimmy Kimmel Live! Performance for “Mantra” by JENNIE out now: https://jennie.lnk.to/mantra Follow JENNIE - Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3DP5rIXKYQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3DP5rIXKYQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3DP5rIXKYQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JennieRubyJaneVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-16T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s_lUWJ2RNnShuv6JUNYceF31va8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z14s8h1roXc"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-31T06:14:01Z",
+        "channelId": "UCm63ydtRcYzr-EyHDTAQaXw",
+        "title": "JENNIE ZEN REACTION - She Cooked on this song",
+        "description": "If Youtube Deletes my channel I will be on Twitch https://www.twitch.tv/anthonyrayder Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z14s8h1roXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z14s8h1roXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z14s8h1roXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-31T06:14:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SnohHHY46HDY9O9yUZ-tS5m0Bco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xfqBQ2XhBCg"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-26T09:00:08Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "ZICO (지코) ‘SPOT! (feat. JENNIE)’ Official MV",
+        "description": "ZICO 11th Digital Single 'SPOT! (feat. JENNIE)' http://zico.lnk.to/SPOT #ZICO #지코 #JENNIE #제니 #SPOT #스팟 Credits: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xfqBQ2XhBCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xfqBQ2XhBCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xfqBQ2XhBCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-26T09:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i6PH1KpaYcDh8Siq1fAuhz8nnXk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0YIXesaPwtw"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-31T05:30:21Z",
+        "channelId": "UCFdAdgyV43x3OolPd8RQUig",
+        "title": "JENNIE &amp; Dominic Fike - Love Hangover (Official Video) | REACTION!!!",
+        "description": "More Content On Patreon!!! https://www.patreon.com/BRISxGANG 2ND CHANNEL: more BRISXLIFE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0YIXesaPwtw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0YIXesaPwtw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0YIXesaPwtw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BRISxLIFE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-31T05:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pLYZNDBk9YTwFvpPoLBbMhYtx8g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OtHIVo2WQe4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-05T10:54:42Z",
+        "channelId": "UCWfFt3bscuJVTzUjHIgDSWA",
+        "title": "JENNIE - The Idol (Full Dance Scene)",
+        "description": "Jennie from BLACKPINK stuns as she does choreo for 'The Idol'. Watch all Jennie scenes from 'The Idol': ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OtHIVo2WQe4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OtHIVo2WQe4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OtHIVo2WQe4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pop World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-05T10:54:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y9u0TKKjKkWhj8uD_GPEbHGFgUo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TMJZOFkR67g"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-17T22:00:31Z",
+        "channelId": "UCPRUgAl_MV9PajsrG_BmT9w",
+        "title": "JENNIE: The Kitten Interview",
+        "description": "Pretty-girl JENNIE just touched down in L.A. and meets KITTIES! 00:00 - JENNIE x KITTENS 00:26 - Kitten Cuddles 01:28 - Kuma ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TMJZOFkR67g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TMJZOFkR67g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TMJZOFkR67g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BuzzFeed Celeb",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-17T22:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P7A3-voYUc0Bm6z593omZEtsknE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6vOm3gWQinQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-15T03:00:08Z",
+        "channelId": "UCNYi_zGmR519r5gYdOKLTjQ",
+        "title": "JENNIE - Mantra MV Rehearsal",
+        "description": "MV Rehearsal for “Mantra” by JENNIE out now: https://jennie.lnk.to/mantra Follow JENNIE - Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6vOm3gWQinQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6vOm3gWQinQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6vOm3gWQinQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JENNIE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-15T03:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ROCbIg6Y_xA1EN6cNZk6YiJQSLM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kn8ArMn6zaw"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-31T19:10:41Z",
+        "channelId": "UCr2BBJl9nvOOvFFXeSqRkKg",
+        "title": "COUPLE REACTS TO JENNIE &amp; Dominic Fike - Love Hangover (Official Video)",
+        "description": "This video was so fun! We really love the creativity behind it!! And the song was SO GOOD! To help support the channel and for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kn8ArMn6zaw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kn8ArMn6zaw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kn8ArMn6zaw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kess and Han Reacts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-31T19:10:41Z"
+      }
+    }
+  ]
+}
