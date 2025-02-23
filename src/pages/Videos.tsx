@@ -3,28 +3,23 @@ import { useParams } from 'react-router-dom';
 import { VideoCard } from '../components/VideoCard';
 import axios from 'axios';
 
-interface VideoType {
-  id: string;
-  title: string;
-  url: string;
-  thumbnail: string;
-}
+const fetchVideos = async (keyword?: string) => {
+  const res = await axios.get(`/videos/${keyword ? 'search' : 'popular'}.json`);
+  return res.data.items;
+};
+
+type VideoType = Awaited<ReturnType<typeof fetchVideos>>[0]; // Awaited<T>? Promise 내부의 실제 값을 가져오는 역할
 
 const Videos = () => {
   const { keyword } = useParams<{ keyword?: string }>();
+
   const {
     isLoading,
     error,
     data: videos,
   } = useQuery<VideoType[]>({
     queryKey: ['videos', keyword],
-    queryFn: async () => {
-      const res = await axios.get(
-        `/videos/${keyword ? 'search' : 'popular'}.json`
-      );
-      console.log(res);
-      return res.data.items as VideoType[];
-    },
+    queryFn: () => fetchVideos(keyword), // fetchVideos 함수 사용
   });
 
   return (
