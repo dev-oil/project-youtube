@@ -2,9 +2,9 @@ import { useQuery } from '@tanstack/react-query';
 import { useParams } from 'react-router-dom';
 import { VideoCard } from '../components/VideoCard';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
-import JsonYoutube from '../api/jsonYoutubeClient';
+import Youtube from '../api/youtube';
 
-type VideoType = Awaited<ReturnType<JsonYoutube['fetchVideos']>>[0]; // Awaited<T>? Promise 내부의 실제 값을 가져오는 역할
+type VideoType = Awaited<ReturnType<Youtube['fetchVideos']>>[0]; // Awaited<T>? Promise 내부의 실제 값을 가져오는 역할
 
 const Videos = () => {
   const { keyword } = useParams<{ keyword?: string }>();
