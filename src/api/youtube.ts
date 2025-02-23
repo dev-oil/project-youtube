@@ -1,36 +1,33 @@
 export default class Youtube {
-  constructor(apiClient) {
+  private apiClient: any;
+
+  constructor(apiClient: any) {
     this.apiClient = apiClient;
   }
 
-  fetchVideos = async (keyword: string): Promise<VideoType[]> => {
-    return keyword ? this.searchBykeyword(keyword) : this.mostPopular();
-  };
+  async fetchVideos(keyword?: string): Promise<VideoType[]> {
+    return keyword ? this.searchByKeyword(keyword) : this.mostPopular();
+  }
 
-  private async searchBykeyword(keyword: string): Promise<VideoType[]> {
+  private async searchByKeyword(keyword: string): Promise<VideoType[]> {
     const res = await this.apiClient.fetchVideos({
-      params: {
-        part: 'snippet',
-        maxResults: 25,
-        type: 'video',
-        q: keyword,
-      },
+      part: 'snippet',
+      maxResults: 25,
+      type: 'video',
+      q: keyword,
     });
-    return res.data.items.map((item: any) => ({
+
+    return res.map((item: any) => ({
       ...item,
       id: item.id.videoId,
     }));
   }
 
   private async mostPopular(): Promise<VideoType[]> {
-    const res = await this.apiClient.videos({
-      params: {
-        part: 'snippet',
-        maxResults: 25,
-        type: 'video',
-        q: keyword,
-      },
+    return await this.apiClient.videos({
+      part: 'snippet',
+      maxResults: 25,
+      chart: 'mostPopular',
     });
-    return res.data.items;
   }
 }

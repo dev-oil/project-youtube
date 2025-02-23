@@ -1,13 +1,13 @@
 import axios from 'axios';
 
 export default class JsonYoutubeClient {
-  constructor() {}
+  async fetchVideos(): Promise<VideoType[]> {
+    const res = await axios.get('/videos/search.json');
+    return res.data.items;
+  }
 
-  fetchVideos = async (): Promise<VideoType[]> => {
-    return axios.get('/videos/search.json');
-  };
-
-  videos = async (): Promise<VideoType[]> => {
-    return axios.get('/videos/popular.json');
-  };
+  async videos(): Promise<VideoType[]> {
+    const res = await axios.get('/videos/popular.json');
+    return res.data.items;
+  }
 }

@@ -1,6 +1,8 @@
-import axios from 'axios';
+import axios, { AxiosInstance } from 'axios';
 
 export default class YoutubeClient {
+  private httpClient: AxiosInstance;
+
   constructor() {
     this.httpClient = axios.create({
       baseURL: 'https://www.googleapis.com/youtube/v3',
@@ -8,10 +10,13 @@ export default class YoutubeClient {
     });
   }
 
-  fetchVideos = async (params): Promise<VideoType[]> => {
-    return this.httpClient.get('search', params);
-  };
-  videos = async (params): Promise<VideoType[]> => {
-    return this.httpClient.get('videos', params);
-  };
+  async fetchVideos(params: any): Promise<VideoType[]> {
+    const res = await this.httpClient.get('search', { params });
+    return res.data.items;
+  }
+
+  async videos(params: any): Promise<VideoType[]> {
+    const res = await this.httpClient.get('videos', { params });
+    return res.data.items;
+  }
 }
