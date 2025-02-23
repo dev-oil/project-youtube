@@ -2,13 +2,14 @@ import { useQuery } from '@tanstack/react-query';
 import { useParams } from 'react-router-dom';
 import { VideoCard } from '../components/VideoCard';
 import JsonYoutube from '../api/jsonYoutube';
+import Youtube from '../api/youtube';
 
 type VideoType = Awaited<ReturnType<JsonYoutube['fetchVideos']>>[0]; // Awaited<T>? Promise 내부의 실제 값을 가져오는 역할
 
 const Videos = () => {
   const { keyword } = useParams<{ keyword?: string }>();
 
-  const youtube = new JsonYoutube();
+  const youtube = new Youtube();
 
   const {
     isLoading,
