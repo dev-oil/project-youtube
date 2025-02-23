@@ -6,6 +6,7 @@ export const ChannelInfo = ({ id, name }) => {
   const { data: url } = useQuery({
     queryKey: ['channel', id],
     queryFn: () => youtube.channelImageURL(id),
+    staleTime: 1000 * 60 * 1,
   });
 
   return (
