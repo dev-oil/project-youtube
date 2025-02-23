@@ -1,6 +1,7 @@
 import { useQuery } from '@tanstack/react-query';
 import { useParams } from 'react-router-dom';
 import { VideoCard } from '../components/VideoCard';
+import axios from 'axios';
 
 interface VideoType {
   id: string;
@@ -18,14 +19,11 @@ const Videos = () => {
   } = useQuery<VideoType[]>({
     queryKey: ['videos', keyword],
     queryFn: async () => {
-      const response = await fetch(
+      const res = await axios.get(
         `/videos/${keyword ? 'search' : 'popular'}.json`
       );
-      if (!response.ok) {
-        throw new Error('실패 fetch videos');
-      }
-      const data = await response.json();
-      return data.items as VideoType[];
+      console.log(res);
+      return res.data.items as VideoType[];
     },
   });
 
