@@ -7,7 +7,7 @@ export default class JsonYoutube {
     return keyword ? this.searchBykeyword(keyword) : this.mostPopular();
   };
 
-  private async searchByKeyword(keyword: string): Promise<VideoType[]> {
+  private async searchBykeyword(keyword: string): Promise<VideoType[]> {
     const res = await axios.get(`/videos/search.json`);
     return res.data.items.map((item: any) => ({
       ...item,
@@ -16,7 +16,7 @@ export default class JsonYoutube {
   }
 
   private async mostPopular(): Promise<VideoType[]> {
-    const res = await axios.get(`/videos/search.json`);
+    const res = await axios.get(`/videos/popular.json`);
     return res.data.items;
   }
 }
