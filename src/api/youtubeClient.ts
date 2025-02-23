@@ -19,4 +19,9 @@ export default class YoutubeClient {
     const res = await this.httpClient.get('videos', { params });
     return res.data.items;
   }
+
+  async channels(params: any): Promise<VideoType[]> {
+    const res = await this.httpClient.get('channels', { params });
+    return res.data.items;
+  }
 }

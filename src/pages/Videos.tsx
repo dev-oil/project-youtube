@@ -21,7 +21,6 @@ const Videos = () => {
 
   return (
     <>
-      <h2>Videos {keyword ? `🔎${keyword}` : '🔥'} </h2>;
       {isLoading && <p>Loading...</p>}
       {error && <p>Something is wrong!</p>}
       {videos && (
